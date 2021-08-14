@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">About_me</string>
+    <string name="name">Patrick Bamunoba</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="scroll_view">Scroll View</string>
+    <string name="bio">hello there, my name is patrick
+    \ni am an MIS Student from Daystar university
+    \nI do design, financial analysis, coding in various languages but now trying to focus on flutter,
+    android studio,c#, etc
+    \nif you may have any project for me,
+    please feel free to reach me through my email "skicpatrick@outlook.com
+    \ni also like reading and expandng my education day in and day out
+    just to become a better version of my self
+    \nswimming is one of my hobbies and as another sport i do jogging
+    \ni\'ll be really happy to teach a wide range of skills anytime you want me to,
+ just reach the email above
+    \nthank you
+    Two roads diverged in a yellow wood,
+    And sorry I could not travel both
+    And be one traveler, long I stood
+    And looked down one as far as I could
+    To where it bent in the undergrowth;
+    \n
+    Then took the other, as just as fair,
+    And having perhaps the better claim,
+    Because it was grassy and wanted wear;
+    Though as for that the passing there
+    Had worn them really about the same,
+    \n
+    And both that morning equally lay
+    In leaves no step had trodden black.
+    Oh, I kept the first for another day!
+    Yet knowing how way leads on to way,
+    I doubted if I should ever come back.
+    \n
+    I shall be telling this with a sigh
+    Somewhere ages and ages hence:
+    Two roads diverged in a wood, and I—
+    I took the one less traveled by,
+    And that has made all the difference.
+    </string>
+    <string name="hint_nickname">what is your nickname</string>
+    <string name="button_name">Done</string>
+
+</resources>
